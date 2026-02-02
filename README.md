@@ -1,6 +1,6 @@
 # GLS/NXT QA Assessment
 
-Small QA assessment repo with Selenium smoke checks for GLS parcel configuration.
+QA assessment repo with Selenium smoke checks for GLS parcel configuration.
 Target URL: https://www.gls-pakete.de/en/private-customers/parcel-shipping/parcel-configuration
 
 Install dependencies:
